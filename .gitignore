@@ -1,0 +1,18 @@
+# Virtual environment
+myenv/
+
+# macOS file
+.DS_Store
+
+# Logs and temporary files
+*.log
+
+# Data Files
+mta_static_data/
+
+# Configuration 
+.env
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
